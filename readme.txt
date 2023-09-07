@@ -1,0 +1,1 @@
+8. **Hand Gesture Recognition (MediaPipe + Streamlit):** Create an app that uses Google's MediaPipe library to recognize hand gestures from a webcam feed. Users can perform predefined hand gestures, and the app interprets and responds to them in real-time using Streamlit.
